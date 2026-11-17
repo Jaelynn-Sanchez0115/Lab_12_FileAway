@@ -1,0 +1,4 @@
+Java is a programming language.
+Files can store information.
+Reading files is useful.
+I am practicing File I/O.
